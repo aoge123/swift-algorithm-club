@@ -830,6 +830,16 @@
       </Group>
    </Group>
    <Group
+      location = "group:FibonacciHeap"
+      name = "FibonacciHeap">
+      <FileRef
+         location = "group:FibonacciHeap/FibonacciHeap.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:README.md">
+      </FileRef>
+   </Group>
+   <Group
       location = "group:Fixed Size Array"
       name = "Fixed Size Array">
       <FileRef
