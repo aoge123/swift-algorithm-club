@@ -8,14 +8,14 @@ It's name derives from the fact that the fibonacci sequence is used in the compl
 
 ## Time Complexity
 
- | Operation |  Description |  Complexity | 
- | _________ | ____________ | ___________ |
- | Decrease Key | Decreases n existing key to some value | _O_(`1`) |
- | Delete | Deletes a node given a reference | _O_(`logn`) |
- | Extract min | removes and returns the minimum value | _O_(`logn`) |
- | Find min | returns the minimum value | _O_(`1`) |
- | Insert | Inserts a new value | _O_(`1`) |
- | Merge | Combine with another heap to form a valid Fibonacci Heap | _O_(`1`) |
+  Operation |  Description |  Complexity  
+  _________ | ____________ | ___________ 
+  Decrease Key | Decreases n existing key to some value | _O_(`1`) 
+  Delete | Deletes a node given a reference | _O_(`logn`) 
+  Extract min | removes and returns the minimum value | _O_(`logn`) 
+  Find min | returns the minimum value | _O_(`1`) 
+  Insert | Inserts a new value | _O_(`1`) 
+  Merge | Combine with another heap to form a valid Fibonacci Heap | _O_(`1`) 
 
 [1]: http://www.growingwiththeweb.com/data-structures/fibonacci-heap/overview/
 [2]: https://brilliant.org/wiki/fibonacci-heap/
